@@ -1,10 +1,11 @@
 export const Header = () => {
   return (
     <div className="header">
-      <h1>Калькулятор индекса массы тела (ИМТ)</h1>
+      <h1>Rechner für den Body-Mass-Index (BMI).</h1>
       <h3>
-        На данной странице с помощью калькулятора ИМТ вы можете рассчитать свой
-        показатель. Достаточно ввести вес и рост в поля ниже.
+        Auf dieser Seite können Sie mit dem BMI-Rechner Ihren Indikator
+        berechnen. Geben Sie einfach Ihr Gewicht und Ihre Größe in die Felder
+        unten ein.
       </h3>
     </div>
   );

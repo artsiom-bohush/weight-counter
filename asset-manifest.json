@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weight-counter/static/css/main.3b896cb9.css",
+    "main.js": "/weight-counter/static/js/main.8ba62d16.js",
+    "index.html": "/weight-counter/index.html",
+    "main.3b896cb9.css.map": "/weight-counter/static/css/main.3b896cb9.css.map",
+    "main.8ba62d16.js.map": "/weight-counter/static/js/main.8ba62d16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b896cb9.css",
+    "static/js/main.8ba62d16.js"
+  ]
+}
